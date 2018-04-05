@@ -1,3 +1,6 @@
+/*
+ * we are creating a functions of the rectangle which is calculating the parameter & area of rectangle 
+ */
 var rect = {
 	perimeter: function (x, y) {
            return (2*(x+y));
